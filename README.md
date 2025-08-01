@@ -31,4 +31,4 @@ Pasos:
    cd uvg-ppm-lab2-android
 
 
-Video: https://uvggt-my.sharepoint.com/:v:/g/personal/san24885_uvg_edu_gt/Ec4RaJZIoIBHvOjDP3_zb5QBJfjla56jBRIACcJ4ANHZ8Q
+Video: https://uvggt-my.sharepoint.com/:v:/g/personal/san24885_uvg_edu_gt/Ec4RaJZIoIBHvOjDP3_zb5QBJfjla56jBRIACcJ4ANHZ8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=80xCpC
