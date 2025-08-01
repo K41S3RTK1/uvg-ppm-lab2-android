@@ -29,3 +29,6 @@ Pasos:
    ```bash
    git clone https://github.com/K41S3RTK1/uvg-ppm-lab2-android.git
    cd uvg-ppm-lab2-android
+
+
+Video: https://uvggt-my.sharepoint.com/:v:/g/personal/san24885_uvg_edu_gt/Ec4RaJZIoIBHvOjDP3_zb5QBJfjla56jBRIACcJ4ANHZ8Q
